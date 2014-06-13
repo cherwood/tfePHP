@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+  }
+  	h1, p{
+    	font-family: "proxima-nova", helvetica, arial, sans-serif;
+    	max-width: 485px;
+    	margin: 0;
+  	}
+  	h1{
+    	text-align: center;
+    	padding: 30px 0 20px 0;
+    	color: #668b9e;
+  	}
+  	p{
+    	margin: 0 60px 0 30px;
+    	line-height: 1.5;
+    	color: #444444;
+  	}
